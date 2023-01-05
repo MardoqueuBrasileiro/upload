@@ -1,8 +1,8 @@
 import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 const firebaseConfig = {
-  apiKey: "AIzaSyCe8-IJKGUd-yXoYR0xQKMdSuIv5YsznDE",
-  authDomain: "fileuploads-be0db.firebaseapp.com",
+  apiKey: "AIzaSyCkJcm8uTxd3EyvthwJI9C8BZWaPImJF3c",
+  authDomain: "animesmoon-fb8d2-default-rtdb.firebaseio.com",
   projectId: "fileuploads-be0db",
   storageBucket: "fileuploads-be0db.appspot.com",
   messagingSenderId: "832032829361",
