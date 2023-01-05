@@ -1,12 +1,12 @@
 import { initializeApp } from "firebase/app";
 import { getStorage } from "firebase/storage";
 const firebaseConfig = {
-  apiKey: "AIzaSyCkJcm8uTxd3EyvthwJI9C8BZWaPImJF3c",
-  authDomain: "animesmoon-fb8d2-default-rtdb.firebaseio.com",
-  projectId: "fileuploads-be0db",
-  storageBucket: "fileuploads-be0db.appspot.com",
-  messagingSenderId: "832032829361",
-  appId: "1:832032829361:web:f2079f619d4aad32ae9790",
+  apiKey: "AIzaSyCuCOZzhbyhfa7G3trTgAEyUHDAkftl_4w",
+  authDomain: "meblink-62841.firebaseapp.com",
+  projectId: "meblink-62841",
+  storageBucket: "meblink-62841.appspot.com",
+  messagingSenderId: "208607014276",
+  appId: "1:208607014276:web:3c1d11d1cb5a96449601d1",
 };
 
 // Initialize Firebase
